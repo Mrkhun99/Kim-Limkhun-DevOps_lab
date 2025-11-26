@@ -2,7 +2,7 @@
 "# Kim-Limkhun-DevOps_lab"
 =======
 
-# Getting started
+# Getting startedgit rebase --continue
 
 This repository is a sample application for users following the getting started guide at https://docs.docker.com/get-started/.
 
